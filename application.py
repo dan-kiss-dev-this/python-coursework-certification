@@ -80,7 +80,7 @@ print(result)
 word_section1_assignment4a = 'Computer'
 word_section1_assignment4b = 'Truck'
 
-word_section1_assignment4combo = word_section1_assignment4a[1:] + word_section1_assignment4b[0] + word_section1_assignment4b[2:]
+word_section1_assignment4combo = word_section1_assignment4a[1:] + word_section1_assignment4b[0:1] + word_section1_assignment4b[2:]
 print(word_section1_assignment4combo)
 
 # Assignment 5:
@@ -110,3 +110,5 @@ middle = round(len(chars)/2) #assuming even number given
 # note middle below does not include middle number in :middle aka the middle is the cutoff
 result5 = chars[:middle] + word + chars[middle:]
 print(result5)
+
+
