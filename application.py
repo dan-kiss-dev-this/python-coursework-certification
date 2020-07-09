@@ -110,5 +110,3 @@ middle = round(len(chars)/2) #assuming even number given
 # note middle below does not include middle number in :middle aka the middle is the cutoff
 result5 = chars[:middle] + word + chars[middle:]
 print(result5)
-
-
