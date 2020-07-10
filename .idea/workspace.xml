@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3480730e-1b73-44d1-aa99-0b0aad481861" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/animals/animal_stuff.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/another_file5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/machines/vehicle_stuff.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/process5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script5.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/script5.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/utility_stuff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fileio_w_exception_handling6.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fileio_w_exception_handling6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application.py" beforeDir="false" afterPath="$PROJECT_DIR$/application.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,28 +15,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2544">
-              <caret line="106" column="14" selection-start-line="106" selection-start-column="14" selection-end-line="106" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/oop5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="75" column="31" lean-forward="true" selection-start-line="75" selection-start-column="31" selection-end-line="75" selection-end-column="31" />
+            <state relative-caret-position="156">
+              <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/script5.1.py">
+        <entry file="file://$PROJECT_DIR$/fileio_w_exception_handling6.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state>
+              <caret column="98" lean-forward="true" selection-end-column="98" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fileio_w_exception_handling6.1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -144,6 +137,8 @@
         <option value="$PROJECT_DIR$/script5.2.py" />
         <option value="$PROJECT_DIR$/process5.py" />
         <option value="$PROJECT_DIR$/oop5.py" />
+        <option value="$PROJECT_DIR$/fileio_w_exception_handling6.py" />
+        <option value="$PROJECT_DIR$/fileio_w_exception_handling6.1.py" />
       </list>
     </option>
   </component>
@@ -215,7 +210,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.oop5">
+  <component name="RunManager" selected="Python.fileio_w_exception_handling6.1">
     <configuration name="animal_stuff" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test7.1.20" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -237,7 +232,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="control_flow4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fileio_w_exception_handling6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test7.1.20" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -249,7 +244,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/control_flow4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fileio_w_exception_handling6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -258,7 +253,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="functions3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fileio_w_exception_handling6.1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test7.1.20" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -270,7 +265,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/functions3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fileio_w_exception_handling6.1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -323,11 +318,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.fileio_w_exception_handling6.1" />
+        <item itemvalue="Python.fileio_w_exception_handling6" />
         <item itemvalue="Python.oop5" />
         <item itemvalue="Python.utility_stuff" />
         <item itemvalue="Python.animal_stuff" />
-        <item itemvalue="Python.control_flow4" />
-        <item itemvalue="Python.functions3" />
       </list>
     </recent_temporary>
   </component>
@@ -348,7 +343,7 @@
     <frame x="84" y="25" width="1149" height="524" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3856383" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3856383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -361,7 +356,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="9" />
-      <window_info anchor="bottom" id="Run" order="10" weight="0.3653846" />
+      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.3653846" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -454,8 +449,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/oop5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="75" column="31" lean-forward="true" selection-start-line="75" selection-start-column="31" selection-end-line="75" selection-end-column="31" />
+        <state relative-caret-position="156">
+          <caret line="84" column="17" selection-start-line="84" selection-start-column="17" selection-end-line="84" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileio_w_exception_handling6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="98" lean-forward="true" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileio_w_exception_handling6.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="11" column="62" selection-start-line="11" selection-start-column="62" selection-end-line="11" selection-end-column="62" />
         </state>
       </provider>
     </entry>
